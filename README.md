@@ -1,4 +1,5 @@
 # Void-Packages Sources Management wrapper for XBPS-SRC.
+## :warning: this repository was transferred to another owner: [sineto/vpsm](https://github.com/sineto/vpsm).
 ![vpsm](https://github.com/sinetoami/vpsm/raw/master/doc/print.png)
 **vpsm** was made specifically for [Void Linux][0]. Is a simple wrapper for [**xbps-src**][1] commands that allows handling binary packages sources, query, smooth the workflow of the creation of new packages - and a little more. Also used to substitute some commands from [**xtools**][2] collection utilities.
 
